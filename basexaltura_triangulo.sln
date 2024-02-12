@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basexaltura_triangulo", "basexaltura_triangulo\basexaltura_triangulo.csproj", "{F24AE156-57DB-4F10-86EE-8FC8360CD213}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F24AE156-57DB-4F10-86EE-8FC8360CD213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24AE156-57DB-4F10-86EE-8FC8360CD213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24AE156-57DB-4F10-86EE-8FC8360CD213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24AE156-57DB-4F10-86EE-8FC8360CD213}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {949473CD-4574-47ED-A2DF-56EDA63AD91E}
+	EndGlobalSection
+EndGlobal
